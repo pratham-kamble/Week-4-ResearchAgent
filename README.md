@@ -62,8 +62,8 @@ Searches Wikipedia and returns a summary of the matching page (or a clear "not f
 
 **1. Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/pratham-kamble/Week-4-ResearchAgent.git
+cd Week-4-ResearchAgent
 ```
 
 **2. Create and activate a virtual environment**
